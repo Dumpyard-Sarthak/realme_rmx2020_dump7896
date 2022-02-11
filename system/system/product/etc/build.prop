@@ -1,0 +1,17 @@
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.config.ringtone=Ring_Synth_04.ogg
+ro.config.notification_sound=pixiedust.ogg
+ro.sf.lcd_density=320
+ro.lmk.psi_complete_stall_ms=150
+ro.lmk.swap_free_low_percentage=20
+ro.lmk.kill_timeout_ms=100
+ro.control_privapp_permissions=log
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

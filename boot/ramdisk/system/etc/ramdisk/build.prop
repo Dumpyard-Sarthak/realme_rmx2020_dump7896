@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=realme
+ro.product.bootimage.device=RMX2020
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=Realme Monet
+ro.product.bootimage.name=RMX2020
+ro.bootimage.build.date=Fri Feb 11 09:09:50 UTC 2022
+ro.bootimage.build.date.utc=1644570590
+ro.bootimage.build.fingerprint=realme/RMX2020/RMX2020:Tiramisu/AOSP.MASTER/neolit02110909:eng/test-keys
+ro.bootimage.build.id=AOSP.MASTER
+ro.bootimage.build.tags=test-keys
+ro.bootimage.build.type=eng
+ro.bootimage.build.version.incremental=eng.neolit.20220211.091119
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=Tiramisu
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

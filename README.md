@@ -1,0 +1,14 @@
+# RMX2020-eng Tiramisu AOSP.MASTER eng.neolit.20220211.112742 test-keys
+- manufacturer: 
+- platform: 
+- codename: RMX2020
+- flavor: RMX2020-eng
+- release: 12
+- id: AOSP.MASTER
+- incremental: eng.neolit.20220211.112742
+- tags: test-keys
+- fingerprint: realme/RMX2020/RMX2020:Tiramisu/AOSP.MASTER/neolit02111126:eng/test-keys
+- is_ab: false
+- brand: realme
+- branch: RMX2020-eng-Tiramisu-AOSP.MASTER-eng.neolit.20220211.112742-test-keys
+- repo: realme_rmx2020_dump7896
